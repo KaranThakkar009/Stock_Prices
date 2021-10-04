@@ -1,0 +1,4 @@
+{
+  "postgresURL": "postgresURL",
+  "jwtPrivateKey": "jwtPrivateKey"
+}
